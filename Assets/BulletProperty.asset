@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97581daf7ab1f48449bebf8845db9251, type: 3}
+  m_Name: BulletProperty
+  m_EditorClassIdentifier: 
+  m_bulletPreset: 11
+  m_previousBulletPreset: 11
+  m_measurementUnit: 1
+  m_previousMeasurementUnit: 1
+  m_lifeTime: 3
+  m_dragModel: 4
+  m_muzzleVelocity: 850
+  m_mass: 10
+  m_diameter: 7.82
+  m_length: 19.9
+  m_barrelTwist: 304.8
+  m_ballisticCoef: 0.397
+  m_affectedByWind: 1
+  m_affectedByAirResistance: 1
+  m_affectedBySpinDrift: 1
+  m_muzzleVelocityInMetric: 850
+  m_massInMetric: 10
+  m_diameterInMetric: 7.82
+  m_lengthInMetric: 19.9
+  m_barrelTwistInMetric: 304.8
+  m_zeroCalculated: 1
+  m_ballisticSimulationFoldout: 1
+  m_horizontalRange: 500
+  m_verticalRange: 10
+  m_shootingAngle: 0
+  m_timeShown: 0
+  m_environmentProperties: {fileID: 11400000, guid: cf5fa9dd91472184a89f5a763ffbc9e4,
+    type: 2}

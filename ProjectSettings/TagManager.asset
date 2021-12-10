@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Bullet
+  - Enemy
+  - Terrain
+  - Defense
+  - FxTemporaire
+  - Rocket
+  - Close_556
+  - Middle_556
+  - Far_556
+  - Close_45ACP
+  - Middle_45ACP
+  - Far_45ACP
+  - Close_9mm
+  - Middle_9mm
+  - Far_9mm
+  - Mine
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Scope
+    uniqueID: 798150857
+    locked: 0
+  - name: UI
+    uniqueID: 988341227
+    locked: 0
